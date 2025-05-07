@@ -15,4 +15,4 @@ demo = gr.ChatInterface(
     theme="soft"
 )
 
-demo.launch(server_name="0.0.0.0", server_port=10000, show_api=False)
+demo.launch()
